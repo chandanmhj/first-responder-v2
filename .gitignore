@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+knowledge_base/chroma_db/
+.DS_Store
+media/*.mp4
+media/*.jpg
+media/*.png
