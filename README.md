@@ -1,4 +1,4 @@
-# Jeeva — BCLS First Aid Telegram Bot 🚑
+# Jeeva — First Aid Telegram Bot 🚑
 
 An AI-powered Telegram bot that provides step-by-step BCLS (Basic Cardiac Life Support) first aid guidance during medical emergencies. Built by **Chandan and team from Sambhram Institute of Technology, Bangalore**.
 
